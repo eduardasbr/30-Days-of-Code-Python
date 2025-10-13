@@ -4,7 +4,8 @@ os.system("cls")
 # DIA 12
 # Peça uma nota e diga se o aluno foi aprovado (≥ 6).
 
-print(""" ========= SCHOOL GRADES SYSTEM =========
+print(""" 
+========= SCHOOL GRADES SYSTEM =========
 
 """)
 
